@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-dtas5e.pulaucuan.net/sitemap.xml
